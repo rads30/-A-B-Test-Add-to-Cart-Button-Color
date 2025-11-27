@@ -1,4 +1,3 @@
-
 This notebook demonstrates a simple **A/B test** to evaluate the impact of changing the Add-to-Cart button color on conversion rates for an ecommerce site.  
 A/B Test: Add-to-Cart Button Color
 
